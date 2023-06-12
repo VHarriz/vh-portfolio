@@ -9,4 +9,4 @@ Video name: Code and Deploy A React Portfolio - React Personal Portfolio Website
 By PedroTech
 
 ## Link to Github Pages
-https://vharriz.github.io/vh-portfolio/
+https://vharriz.github.io/
