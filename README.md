@@ -7,3 +7,6 @@ This is my basic portfolio. This has the basic layout that I want to implement. 
 I found a youtube video that helped guide me so that I could structure and link my website correctly. 
 Video name: Code and Deploy A React Portfolio - React Personal Portfolio Website
 By PedroTech
+
+## Link to Github Pages
+https://vharriz.github.io/vh-portfolio/
