@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vharriz.github.io/vh-portfolio/static/css/main.d1bfa654.css",
-    "main.js": "/vharriz.github.io/vh-portfolio/static/js/main.c6626a30.js",
-    "index.html": "/vharriz.github.io/vh-portfolio/index.html",
-    "main.d1bfa654.css.map": "/vharriz.github.io/vh-portfolio/static/css/main.d1bfa654.css.map",
-    "main.c6626a30.js.map": "/vharriz.github.io/vh-portfolio/static/js/main.c6626a30.js.map"
+    "main.css": "/vh-portfolio/static/css/main.d1bfa654.css",
+    "main.js": "/vh-portfolio/static/js/main.c6626a30.js",
+    "index.html": "/vh-portfolio/index.html",
+    "main.d1bfa654.css.map": "/vh-portfolio/static/css/main.d1bfa654.css.map",
+    "main.c6626a30.js.map": "/vh-portfolio/static/js/main.c6626a30.js.map"
   },
   "entrypoints": [
     "static/css/main.d1bfa654.css",
